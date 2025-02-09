@@ -43,6 +43,14 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
+book-recommendation-engine@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/book-recommendation-engine/-/book-recommendation-engine-1.0.0.tgz#f12cfe3176df4eb3e6bc284c2f618d6fd488ebb6"
+  integrity sha512-k5k8sOrzHVEMtJwKy6CcE/XoLs5alpNyD3/lmw2wOpGE8bLeveqe7qSbInwsj1XlExSylVkq/IvwEyMwPF0oVQ==
+  dependencies:
+    dotenv "^16.3.1"
+    openai "^4.11.0"
+
 combined-stream@^1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/combined-stream/-/combined-stream-1.0.8.tgz#c3d45a8b34fd730631a110a8a2520682b31d5a7f"
