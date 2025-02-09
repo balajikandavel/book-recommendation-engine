@@ -1,0 +1,18 @@
+{
+  "name": "yourusername-deepseek-book-recommender",
+  "version": "1.0.0",
+  "description": "NPM module to get book recommendations using OpenAI API",
+  "main": "index.js",
+  "type": "module",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git"
+  },
+  "keywords": ["book recommendation", "openai", "chatgpt", "api"],
+  "dependencies": {
+    "openai": "^4.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
